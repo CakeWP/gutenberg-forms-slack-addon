@@ -1,0 +1,31 @@
+{
+  "blocks": [
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "You have a new form submission:\n*<fakeLink.toEmployeeProfile.com|FORM NAME HERE>*"
+      }
+    },
+    {
+      "type": "section",
+      "fields": []
+    },
+    {
+      "type": "actions",
+      "elements": [
+        {
+          "type": "button",
+          "text": {
+            "type": "plain_text",
+            "emoji": true,
+            "text": "View All Entries"
+          },
+          "style": "primary",
+          "value": "click_me",
+          "url": "https://google.com"
+        }
+      ]
+    }
+  ]
+}

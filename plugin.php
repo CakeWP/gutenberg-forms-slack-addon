@@ -9,7 +9,7 @@
  * Version: 1.0.0
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain: cwp-gutenberg-forms-mailchimp
+ * Text Domain: cwp-gutenberg-forms-slack
  */
 
 require_once plugin_dir_path(__FILE__) . 'dist/init.php';
